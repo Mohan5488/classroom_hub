@@ -30,7 +30,8 @@ SECRET_KEY = "django-insecure-il7e%1$f8bfsd!^j@pe6n&$x@mrom-$7g$qr8l&%g+7ig)-ygn
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['d32e-2401-4900-674b-ab65-6d3c-3449-e4c-54fe.ngrok-free.app', 'localhost', '127.0.0.1']
+ALLOWED_HOSTS = ['classroom-hub.onrender.com', '127.0.0.1', 'localhost']
+
 
 
 
